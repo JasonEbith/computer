@@ -1,0 +1,11 @@
+Model	Processor (Apple silicon)	Memory	Storage	Graphics	Display resolution (IPS Retina)	Peripheral connections	Battery (lithium polymer, non-removable)	List price
+MacBook Air (13-inch, 2020)	3.2 GHz 8-core Apple M1 system-on-chip with 4 performance cores and 4 efficiency cores	8 GB of unified in-package 128-bit 4266 MHz LPDDR4X SDRAM with up to 68.2 GB/s of memory bandwidth
+Optional 16 GB at the time of purchase only.
+
+256 GB PCIe-based SSD
+Optional 512 GB, 1 TB or 2 TB at the time of purchase, not upgradable after.
+
+7-core Apple-designed integrated GPU with shared memory	13.3", 2560  ×  1600, 227 px/in with wide color gamut (P3), 400 cd/m2, True Tone display	
+2× Thunderbolt 3 (USB-C 4) ports supporting charging and DisplayPort
+3.5 mm headphone jack
+49.9 Wh	$999, $899 for students
